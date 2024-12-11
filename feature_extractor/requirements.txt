@@ -1,0 +1,6 @@
+image
+torch
+torch-summary
+torchvision
+joblib
+efficientnet_pytorch
